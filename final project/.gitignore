@@ -1,0 +1,15 @@
+$RECYCLE.BIN/
+System\ Volume\ Information/
+Thumbs.db
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+*.zip
+*.rar
+*.iso
+.vscode/
+.idea/
